@@ -18,7 +18,7 @@ O programa utiliza uma estrutura de repetição para realizar a pesquisa com 50 
 
 Também são utilizadas estruturas de decisão para verificar a opinião informada e contabilizar as respostas classificadas como EXCELENTE e RUIM.
 
- Tecnologias utilizadas
+Tecnologias Utilizadas
 
 - Python
 - Visual Studio Code
