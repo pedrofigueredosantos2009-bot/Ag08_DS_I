@@ -9,7 +9,7 @@ O programa coleta o nome, a idade e a opinião dos entrevistados sobre o atendim
  Opções de atendimento
 
 - 1 - EXCELENTE
-- 2 - BOM
+- 2 - Bom
 - 3 - RUIM
 
  Funcionamento
